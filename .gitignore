@@ -1,0 +1,10 @@
+env
+md/*
+secret.yaml
+
+_build
+_input
+_tmp
+img
+
+**/__pycache__
